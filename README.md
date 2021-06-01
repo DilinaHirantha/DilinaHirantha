@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DilinaHirantha
 - ✨ I’m a tech enthusiastic guy
-- 🌱 I’m currently working on my degree on BSC (Hons) Information Technology, University of Moratuwa
+- 🌱 I’m currently working on my degree on B.Sc. (Hons.) in Information Technology, University of Moratuwa
 - 📫 You can reach me via my email : dilina.17@itfac.mrt.ac.lk
