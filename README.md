@@ -1,4 +1,4 @@
 - 👋 Hi, I’m DilinaHirantha
-- ✨ I’m a tech enthusiastic, Full Stack developer with a proven set of dynamic skills such as problem solving, effective communication and innovative thinking.
+- ✨ Tech possesed, Full Stack .NET developer with a proven set of dynamic skills in such as problem solving, effective communication and innovative thinking.
 - 🌱 B.Sc. (Hons.) in Information Technology, University of Moratuwa.
-- 📫 You can reach me via email : dilinahj@gmail.com
+- 📫 Reach me via email : dilinahj@gmail.com
