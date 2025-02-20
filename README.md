@@ -4,9 +4,9 @@
 I'm a results-driven Full-Stack Developer with expertise in .NET, .NET Core, Microsoft Azure, VueJs and, Angular. Passionate about building scalable web solutions, I thrive in collaborative environments and enjoy solving complex problems through innovative thinking.
 
 ## 🚀 About Me
-📊 Currently working as the Full Stack .NET developer.
-🎓 B.Sc. (Hons.) in Information Technology – University of Moratuwa
-📫 Reach me at: dilinahj@gmail.com
+-📊 Currently working as the Full Stack .NET developer.
+-🎓 B.Sc. (Hons.) in Information Technology – University of Moratuwa.
+-📫 Reach me at: dilinahj@gmail.com
 
 💡 Let's connect and build something amazing!
 
@@ -22,10 +22,6 @@ I'm a results-driven Full-Stack Developer with expertise in .NET, .NET Core, Mic
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Dilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilinaHirantha&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
