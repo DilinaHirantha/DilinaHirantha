@@ -12,8 +12,7 @@ I'm a results-driven Full-Stack Developer with expertise in .NET, .NET Core, Mic
 
 ## 🛠️ Languages and Tools
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
